@@ -10,13 +10,8 @@ https://github.com/kasperisager/php-dockerized
 
 * [Nginx](http://nginx.org/)
 * [MySQL](http://www.mysql.com/)
-* [MongoDB](http://www.mongodb.org/)
 * [PHP-FPM](http://php-fpm.org/)
 * [HHVM](http://www.hhvm.com/)
-* [Memcached](http://memcached.org/)
-* [Redis](http://redis.io/)
-* [Elasticsearch](http://www.elasticsearch.org/)
-* [RabbitMQ](https://www.rabbitmq.com/)
 
 ## Requirements
 
