@@ -12,8 +12,9 @@
     // $person->viewHtml();
 
     // $person->register();
+    $br = "<br />";
 
-    echo "Request : <br /><br />";
+    echo "Request : ".$br.$br;
 
     $res = $conn->query($exo21);
 
@@ -22,6 +23,6 @@
     foreach ( $data as $row ) {
         for ($i = 0; $i < $res->columnCount(); $i++) 
             echo $row[$i]."\t";
-        echo "<br />";
+        echo $br;
     }
 ?>
